@@ -1,1 +1,1 @@
-cpuguy83/ntpdate
+fusondocker/kingbase:8.2
