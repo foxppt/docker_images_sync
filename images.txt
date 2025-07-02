@@ -1,1 +1,1 @@
-fusondocker/kingbase:8.2
+openresty/openresty:1.27.1.2-rocky
